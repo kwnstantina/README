@@ -30,9 +30,9 @@ I believe in continuous learning. Currently, I'm diving deep into backend techno
 I'm always interested in connecting with fellow developers, designers, and tech enthusiasts. Feel free to reach out to me on [LinkedIn](linkedin.com/in/konstantina-kirtsia). Let's share ideas and build amazing things together!
 
 ## 🎨 Fun Facts
-
-- Hobbies outside coding: [Hobbies]
-- Most-used emoji: 🚀
+- Hobbies outside coding:  Fencing, Billiard, Art, Cinema, Music etc...
+- Dog lover
+- Meraki ( greek word) describes the way I see life...
 
 Thanks for visiting my profile. Remember, the code is just the beginning of the story!
 
