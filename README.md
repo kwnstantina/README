@@ -37,4 +37,4 @@ I am building a team of developers working on a modern and interesting problem. 
 
 Thanks for visiting my profile. Remember, the code is just the beginning of the story!
 
-<Konstantina Kirtsia/>
+<p style={{color:'red'}}> Konstantina Kirtsia</p>
