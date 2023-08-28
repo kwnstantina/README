@@ -14,7 +14,7 @@ Here are some of the projects I'm proud of:
 An app with maths exercises, tutorials, maths ebooks and real chatting.
 **Technologies** Remix, Supabase, MongoDb, Prisma ORM, i18next, vercel.
 
-### [Project Name 2](https://github.com/kwnstantina/book_api)
+### [Book API](https://github.com/kwnstantina/book_api)
 An API for exposing endpoints for creating, reading, updating or deleting books. Use clean architecture patterns for educational purpose.
 **Technologies**: .NE, C#, Mediator,CQRS
 
