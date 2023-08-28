@@ -10,20 +10,20 @@ I specialize in Front End Development. From [Specialty A] to [Specialty B], I'm 
 
 Here are some of the projects I'm proud of:
 
-### [Project Name 1](link-to-project-1)
-Short project description and its impact.
+### [GregKyrMaths](https://github.com/kwnstantina/maths-joy)
+An app with maths exercises, tutorials, maths ebooks and real chatting.
+**Technologies** Remix, Supabase, MongoDb, Prisma ORM, i18next, vercel.
 
-### [Project Name 2](link-to-project-2)
-Short project description and its impact.
+### [Project Name 2](https://github.com/kwnstantina/book_api)
+An API for exposing endpoints for creating, reading, updating or deleting books. Use clean architecture patterns for educational purpose.
+**Technologies**: .NE, C#, Mediator,CQRS
 
-### [Project Name 3](link-to-project-3)
-Short project description and its impact.
 
 Feel free to explore them and provide feedback. I'm open to collaboration and learning from each other!
 
 ## 🌱 What I'm Learning
 
-I believe in continuous learning. Currently, I'm diving deep into [Technology/Topic]. Exploring new tools and techniques keeps me sharp and ready for exciting challenges ahead.
+I believe in continuous learning. Currently, I'm diving deep into backend technologies like .EF core, SQL Server. Exploring new tools and techniques keeps me sharp and ready for exciting challenges ahead.
 
 ## 📫 Let's Connect
 
@@ -36,4 +36,4 @@ I'm always interested in connecting with fellow developers, designers, and tech 
 
 Thanks for visiting my profile. Remember, the code is just the beginning of the story!
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your Name's GitHub Stats](https://github.com/kwnstantina)](https://github.com/kwnstantina)
