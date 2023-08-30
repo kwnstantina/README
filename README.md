@@ -16,7 +16,15 @@ An app with maths exercises, tutorials, maths ebooks and real chatting.
 
 ### [Book API](https://github.com/kwnstantina/book_api)
 An API for exposing endpoints for creating, reading, updating or deleting books. Use clean architecture patterns for educational purpose.
-**Technologies**: .NE, C#, Mediator,CQRS
+**Technologies**: .NET, C#, Mediator,CQRS
+
+### [Omorus MB](https://github.com/kwnstantina/omorus.github.io)
+A mobile App for android which provides user with all the tasks and activities of their interests around them. 
+**Technologies**: React Native, Redux-Toolkit, Axios, Redux-observables, React Native Paper, Auth0
+
+### [Omorus BE](https://github.com/kwnstantina/omorus.github.io)
+An scalable API to provide data to Omorus MB app deployed to Azure portal
+**Technologies**: .NET web API,EF core6, Repository pattern, SQL Server,Managemnet API, FluentAPI.
 
 
 Feel free to explore them and provide feedback. I'm open to collaboration and learning from each other!
@@ -28,10 +36,10 @@ I believe in continuous learning. Currently, I'm diving deep into backend techno
 ## 📫 Let's Connect
 
 I'm always interested in connecting with fellow developers, designers, and tech enthusiasts. Feel free to reach out to me on [LinkedIn](linkedin.com/in/konstantina-kirtsia). 
-I am building a team of developers working on a modern and interesting problem. Do not hesitate to send us!Let's share ideas and build amazing things together!
+I am building a team of developers working on  modern and interesting real life needs. Don't hesitate to send us! Let's share ideas and build amazing things together!
 
 ## 🎨 Fun Facts
-- Hobbies outside coding:  Fencing, Billiard, Art, Cinema, Music, Books, Chess.
+- Hobbies outside coding:  Fencing, Billiard, Cinema, Music, Books, Chess.
 - Dog lover
 - Meraki ( greek word) describes the way I see whatever I love.
 
