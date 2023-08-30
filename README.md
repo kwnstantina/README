@@ -12,7 +12,7 @@ Here are some of the projects I'm proud of:
 
 ### [GregKyrMaths](https://github.com/kwnstantina/maths-joy)
 An app with maths exercises, tutorials, maths ebooks and real chatting.
-**Technologies**: Remix, Supabase, MongoDb, Prisma ORM, i18next,Talwind Vercel.
+**Technologies**: Remix, Supabase, MongoDb, Prisma ORM, i18next,Talwind Vercel,Typescript
 
 ### [Book API](https://github.com/kwnstantina/book_api)
 An API for exposing endpoints for creating, reading, updating or deleting books. Use clean architecture patterns for educational purpose.
@@ -20,11 +20,11 @@ An API for exposing endpoints for creating, reading, updating or deleting books.
 
 ### [Omorus MB](https://github.com/kwnstantina/omorus.github.io)
 A mobile App for android which provides user with all the tasks and activities of their interests around them. 
-**Technologies**: React Native, Redux-Toolkit, Axios, Redux-observables, React Native Paper, Auth0
+**Technologies**: React Native, Redux-Toolkit, Axios, Redux-observables, React Native Paper, Auth0,Typescript
 
 ### [Omorus BE](https://github.com/kwnstantina/omorus.github.io)
 An scalable API to provide data to Omorus MB app deployed to Azure portal
-**Technologies**: .NET web API,EF core6, Repository pattern, SQL Server,Managemnet API, FluentAPI.
+**Technologies**: .NET web API,EF core6, Repository pattern, SQL Server,Managemnet API, FluentAPI
 
 
 ### [Xstate + React](https://github.com/kwnstantina/xstate-react-app)
