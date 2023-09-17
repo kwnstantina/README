@@ -1,4 +1,4 @@
-# Hey there, fellow coder! 👋
+# Hey there! 👋
 
 Welcome to my GitHub profile! I'm Konstantina Kirtsia, a passionate software developer with a love for crafting innovative solutions to real-world problems. Whether it's through coding, designing, or collaborating, I'm always striving to create something unique and impactful.
 
