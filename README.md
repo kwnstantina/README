@@ -8,7 +8,7 @@ I specialize in Front End Development,but I'm always excited to tackle challenge
 
 ## 🌟 Featured Projects
 
-Here are some of the projects I'm proud of:
+Here are some of the projects:
 
 ### [GregKyrMaths](https://github.com/kwnstantina/maths-joy)
 An app with maths exercises, tutorials, maths ebooks and real chatting.
