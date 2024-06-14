@@ -12,7 +12,7 @@ Here are some of the projects:
 
 ### [GregKyrMaths](https://github.com/kwnstantina/maths-joy)
 An app with maths exercises, tutorials, maths ebooks and real chatting.
-**Technologies**: Remix, Supabase, MongoDb, Prisma ORM, i18next,Talwind Vercel,Typescript
+**Technologies**: Remix, Supabase, MongoDb, Prisma ORM, i18next,Tailwind Vercel,Typescript
 
 ### [Book API](https://github.com/kwnstantina/book_api)
 An API for exposing endpoints for creating, reading, updating or deleting books. Use clean architecture patterns for educational purpose.
