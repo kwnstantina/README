@@ -26,6 +26,15 @@ A mobile App for android which provides user with all the tasks and activities o
 An scalable API to provide data to Omorus MB app deployed to Azure portal
 **Technologies**: .NET web API,EF core6, Repository pattern, SQL Server,Managemnet API, FluentAPI
 
+### [Rock|end](https://github.com/kwnstantina/Ro-kend)
+A Website for daily heroes, where they can share their stories, insights and experiences.
+The main goal is to inspire and motivate people to keep going and never give up.
+Podcasts, articles, newsletter and a community forum are included.
+**Technologies**: Next.js,Turso, Drizzle ORM, Tailwind, Netlify, Typescript,Jotai state management
+
+
+
+
 
 ### [Xstate + React](https://github.com/kwnstantina/xstate-react-app)
 Implementation of XState with React. Big fan of state machines.
